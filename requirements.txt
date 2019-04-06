@@ -1,0 +1,15 @@
+hashids
+jsonschema
+PyMySQL
+redis
+SQLAlchemy
+tornado
+Werkzeug
+raven
+jpush
+oss2
+pep8
+pillow
+celery
+ujson
+docxtpl
